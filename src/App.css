@@ -1,5 +1,14 @@
 .App {
   text-align: center;
+   background-image: url('./photos/bg4.jpg'); 
+  filter: brightness(100%);
+  background-color: #cccccc; 
+  height: max-content; 
+
+  background-repeat: no-repeat; 
+  background-size: cover; 
+  margin: 0px;
+  filter: brightness(90%);
 }
 
 .App-logo {

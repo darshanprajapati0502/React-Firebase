@@ -1,0 +1,34 @@
+.navbar{
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    background-color: antiquewhite;
+    gap: 10px;
+    
+    text-decoration: underline;
+    font-size: 0.8rem;
+     background: linear-gradient(180deg,#032837 0%,#383636 95%);
+     border-bottom: 4px solid black;
+    
+}
+.navleft{
+    padding-left: 30px;
+    color: white;
+    
+}
+.navright{
+    display: flex;
+    justify-content:flex-end;
+    gap: 10px;
+    color: white;
+}
+.navright h3:hover{
+    color: rgb(93, 93, 159);
+    cursor: pointer;
+}
+.email{
+    padding-top: 7px;
+    font-size: 14px;
+    font-weight: 500;
+    color: white;
+}
