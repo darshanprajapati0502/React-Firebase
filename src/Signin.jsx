@@ -39,7 +39,7 @@ function Signin() {
          });
             localStorage.setItem("signInEmail", data.email);
             if (data.email == "nd2405@gmail.com") {
-              navigate("/AdminHomec");
+              navigate("/AdminHome");
             }
        })
        .catch((error) => {
