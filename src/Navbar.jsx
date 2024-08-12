@@ -22,7 +22,7 @@ function Navbar() {
             </p>
           </div>
         </div>
-        <div className="flex gap-5 mx-10 text-[#203c2a]  ">
+        <div className="flex gap-5 mx-10 text-[#376748]  ">
           <div></div>
           <h2
             className="font-extrabold  hover:text-white"

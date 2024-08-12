@@ -12,7 +12,6 @@ import UpdateProduct from './UpdateProduct';
 import AdminHome from './AdminHome';
 
 
-
 function App() {
   return (
     <div className="App ">
